@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "efca401e-ac5a-4e97-b07b-561ea146028e": {
+      "ProjectGuid": "efca401e-ac5a-4e97-b07b-561ea146028e",
+      "DisplayName": "Labor5.1",
+      "ColorIndex": 0
+    },
+    "bf651956-089c-4828-a6a7-64f64abc187a": {
+      "ProjectGuid": "bf651956-089c-4828-a6a7-64f64abc187a",
+      "DisplayName": "UnitTest51",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
